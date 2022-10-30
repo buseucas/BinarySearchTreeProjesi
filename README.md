@@ -23,6 +23,7 @@
 
 **2 sayısı 7'den ve 5'ten küçük olduğunda 5'in soluna, 1'den büyük olduğunda 1'in sağına ve 3'ten küçük olduğunda 3'ün soluna ekleriz.**
 
+
 ```
 
                        7
